@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1788893392130,
+  "updatedAt": 1788893460249,
   "devices": {
     "e26838f2-5716-486c-abba-0b70e6dd6dee": {
-      "lastSeen": 1788893391495
+      "lastSeen": 1788893459664
     }
   },
   "problems": {
@@ -17,7 +17,26 @@
       "number": 26,
       "solutionCount": 1,
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1788893391495
+      "at": 1788893459664
+    },
+    "283": {
+      "attempts": 1,
+      "bestMemory": "23.8 MB (Beats 83%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-08",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-08",
+      "folderName": "0283-Move-Zeroes",
+      "language": "C++",
+      "number": 283,
+      "slug": "move-zeroes",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Move Zeroes",
+      "at": 1788893459664
     },
     "3870": {
       "bestMemory": "8.6 MB (Beats 51%)",
@@ -29,11 +48,12 @@
       "number": 3870,
       "solutionCount": 1,
       "title": "Count Commas in Range",
-      "at": 1788893391495
+      "at": 1788893459664
     }
   },
   "achievements": {
-    "first_blood": 1788770681008
+    "first_blood": 1788770681008,
+    "night_owl": 1788893415938
   },
   "sheets": {},
   "days": [
@@ -42,6 +62,6 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 2
+    "pushes": 3
   }
 }
