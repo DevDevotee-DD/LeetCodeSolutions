@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1789152089640,
+  "updatedAt": 1789152194713,
   "devices": {
     "e26838f2-5716-486c-abba-0b70e6dd6dee": {
-      "lastSeen": 1789152089186
+      "lastSeen": 1789152194162
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 26,
       "solutionCount": 1,
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1789152089186
+      "at": 1789152194162
     },
     "88": {
       "attempts": 1,
@@ -37,7 +37,7 @@
         "Sorting"
       ],
       "title": "Merge Sorted Array",
-      "at": 1789152089186
+      "at": 1789152194162
     },
     "283": {
       "attempts": 1,
@@ -56,7 +56,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1789152089186
+      "at": 1789152194162
     },
     "3870": {
       "bestMemory": "8.6 MB (Beats 51%)",
@@ -68,7 +68,25 @@
       "number": 3870,
       "solutionCount": 1,
       "title": "Count Commas in Range",
-      "at": 1789152089186
+      "at": 1789152194162
+    },
+    "3871": {
+      "attempts": 11,
+      "bestMemory": "9.1 MB (Beats 51%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-11",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-11",
+      "folderName": "3871-Count-Commas-in-Range-II",
+      "language": "C++",
+      "number": 3871,
+      "slug": "count-commas-in-range-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Math"
+      ],
+      "title": "Count Commas in Range II",
+      "at": 1789152194162
     }
   },
   "achievements": {
@@ -80,10 +98,11 @@
   "days": [
     "2026-09-07",
     "2026-09-08",
-    "2026-09-09"
+    "2026-09-09",
+    "2026-09-11"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 4
+    "pushes": 5
   }
 }
