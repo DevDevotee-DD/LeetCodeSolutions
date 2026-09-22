@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790035307457,
+  "updatedAt": 1790035411172,
   "devices": {
     "e26838f2-5716-486c-abba-0b70e6dd6dee": {
-      "lastSeen": 1790035304476
+      "lastSeen": 1790035410723
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 26,
       "solutionCount": 1,
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1790035304476
+      "at": 1790035410723
     },
     "88": {
       "attempts": 1,
@@ -37,7 +37,7 @@
         "Sorting"
       ],
       "title": "Merge Sorted Array",
-      "at": 1790035304476
+      "at": 1790035410723
     },
     "283": {
       "attempts": 1,
@@ -56,7 +56,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1790035304476
+      "at": 1790035410723
     },
     "3870": {
       "bestMemory": "8.6 MB (Beats 51%)",
@@ -68,7 +68,7 @@
       "number": 3870,
       "solutionCount": 1,
       "title": "Count Commas in Range",
-      "at": 1790035304476
+      "at": 1790035410723
     },
     "3871": {
       "attempts": 11,
@@ -86,10 +86,11 @@
         "Math"
       ],
       "title": "Count Commas in Range II",
-      "at": 1790035304476
+      "at": 1790035410723
     }
   },
   "achievements": {
+    "early_bird": 1790035308487,
     "first_blood": 1788770681008,
     "night_owl": 1788893415938,
     "on_fire": 1788957924205
