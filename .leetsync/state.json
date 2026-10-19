@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792429461484,
+  "updatedAt": 1792429542923,
   "devices": {
     "e26838f2-5716-486c-abba-0b70e6dd6dee": {
-      "lastSeen": 1792429460783
+      "lastSeen": 1792429542218
     }
   },
   "problems": {
@@ -17,7 +17,7 @@
       "number": 26,
       "solutionCount": 1,
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1792429460783
+      "at": 1792429542218
     },
     "88": {
       "attempts": 1,
@@ -37,7 +37,7 @@
         "Sorting"
       ],
       "title": "Merge Sorted Array",
-      "at": 1792429460783
+      "at": 1792429542218
     },
     "283": {
       "attempts": 1,
@@ -56,7 +56,27 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1792429460783
+      "at": 1792429542218
+    },
+    "2149": {
+      "attempts": 3,
+      "bestMemory": "128.2 MB (Beats 77%)",
+      "bestRuntime": "7 ms (Beats 56%)",
+      "date": "2026-10-19",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-19",
+      "folderName": "2149-Rearrange-Array-Elements-by-Sign",
+      "language": "C++",
+      "number": 2149,
+      "slug": "rearrange-array-elements-by-sign",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Simulation"
+      ],
+      "title": "Rearrange Array Elements by Sign",
+      "at": 1792429542218
     },
     "3870": {
       "bestMemory": "8.6 MB (Beats 51%)",
@@ -68,7 +88,7 @@
       "number": 3870,
       "solutionCount": 1,
       "title": "Count Commas in Range",
-      "at": 1792429460783
+      "at": 1792429542218
     },
     "3871": {
       "attempts": 11,
@@ -86,7 +106,7 @@
         "Math"
       ],
       "title": "Count Commas in Range II",
-      "at": 1792429460783
+      "at": 1792429542218
     }
   },
   "achievements": {
@@ -100,11 +120,12 @@
     "2026-09-07",
     "2026-09-08",
     "2026-09-09",
-    "2026-09-11"
+    "2026-09-11",
+    "2026-10-19"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 5
+    "pushes": 6
   },
   "identity": {
     "installId": "02090ad3-f5c2-48e8-9d92-f1a4fd7717b1",
